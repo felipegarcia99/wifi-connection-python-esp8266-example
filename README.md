@@ -1,3 +1,5 @@
+To see in portuguese, click [here](README_pt-BR.md)
+
 # Example of connection between esp8266 and python via TCPsocket
 
 This code is basically an example of how to connect a [esp8266] (https://en.wikipedia.org/wiki/ESP8266) (or another one in the family, with wi-fi) to a computer or other device (such as a Raspberry Pi ) running Python. The connection is made via wi-fi, using a TCP / IP stack as support.
